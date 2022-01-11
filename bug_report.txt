@@ -1,1 +1,12 @@
-
+  Summary: "User Info: The 'Undo' button is disabled after clicking the 'Save' button"
+	Pre-conditions: The UserB was created.
+	STR: 
+      1.Log in under UserB.
+      2.Select the 'User Info' tab.
+      3.Edit the information from'User Name' field.
+      4.Click the 'Save' button.
+      5.Navigate to the 'Undo' button.
+	ACT: The 'Undo' button is disabled after clicking the 'Save' button.
+	EXP": The 'Undo' button is activated after clicking the 'Save' button.
+	Priority: Medium
+.
